@@ -11,7 +11,7 @@ const projects = [
     title: "项目一",
     desc: "用一两句话说明这个项目解决了什么问题、你负责什么。",
     tags: ["Next.js", "API"],
-    href: "#",
+    href: "https://github.com/JiangZih/personal-site",
   },
   {
     title: "项目二",
@@ -164,12 +164,12 @@ export default function Home() {
               <li>
                 <span className="text-[var(--muted)]">GitHub：</span>
                 <a
-                  href="https://github.com/your-username"
+                  href="https://github.com/JiangZih"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[var(--accent)] hover:underline"
                 >
-                  github.com/your-username
+                  github.com/JiangZih
                 </a>
               </li>
             </ul>
